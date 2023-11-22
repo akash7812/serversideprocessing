@@ -138,7 +138,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 ## OUTPUT:
 ### Home page:
-![output](./server.png)
+![output](server.png)
 
 
 
