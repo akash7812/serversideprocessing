@@ -138,7 +138,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 ## OUTPUT:
 ### Home page:
-![output](https://github.com/akash7812/serversideprocessing/assets/146819826/89b7e555-c3f7-431f-8fec-a12b1428ee59)
+![output](https://github.com/akash7812/serversideprocessing/assets/146819826/756eb0c4-e86e-483c-a26b-fea6380a5097)
 
 
 
